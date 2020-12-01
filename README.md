@@ -11,3 +11,10 @@ Lembre se de permitir o uso da câmera e armazenamento para usar as funções do
 
 
 Na parte de criar o qr code basta digitar a mensagem que gostaria de criptografar clicar no botão e pronto ele está criado nessa mesma tela há um outro botão para compartilhar esse mesmo qr code. Já na parte de escâner basta clicar em escancear e apontar a câmera no qr code e pronto ele vai exibir a mensagem dele, e caso seja um link ele vai perguntar se deseja abrir no navegador do dispositivo.
+
+<h2> Telas </h2
+
+![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/unnamed%20(1).webp) 
+![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/unnamed%20(2).webp)
+![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/unnamed.webp)
+
