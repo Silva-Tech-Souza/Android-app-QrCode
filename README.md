@@ -7,6 +7,7 @@ QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os
 
 Lembre se de permitir o uso da câmera e armazenamento para usar as funções do aplicativo.
 
-<h2>Características
+<h2>Características</h2>
+
 
 Na parte de criar o qr code basta digitar a mensagem que gostaria de criptografar clicar no botão e pronto ele está criado nessa mesma tela há um outro botão para compartilhar esse mesmo qr code. Já na parte de escâner basta clicar em escancear e apontar a câmera no qr code e pronto ele vai exibir a mensagem dele, e caso seja um link ele vai perguntar se deseja abrir no navegador do dispositivo.
