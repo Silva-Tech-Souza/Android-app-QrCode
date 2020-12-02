@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QrCode Silva</string>
+    <string name="digite">Digite aqui...</string>
+    <string name="btn_codif">Codificar</string>
+    <string name="escanear">Escanear  </string>
+    <string name="crairqr">Criar QrCode</string>
+    <string name="avaliar_app">Avalie-nos!</string>
+
+    <string name="scan_test">O texto scaneado aparecerá aqui!</string>
+    <string name="compartilhar_text">Baixe o aplicativo QrCode Silva e crie seus próprios qrcode.\n\n https://play.google.com/store/apps/details?id=br.com.lucassouza.ntech.qrcode_silva</string>
+</resources>
