@@ -1,4 +1,4 @@
-![]( https://github.com/Silva-Tech-Souza/Android-app-QrCode/blob/main/icone_play_qr%20(1).png) 
+![]( https://github.com/Silva-Tech-Souza/Android-app-QrCode/blob/main/imagens/icone_play_qr%20(1).png) 
 # Qr Code Silva
 
 Vale lembrar que esses projetos são projetos antigos ou inacabados, são do início do aprendizado em programação caso esteja interessado em conhecer nossos novos projetos acesse o link do meu perfil. 
@@ -14,7 +14,14 @@ Na parte de criar o qr code basta digitar a mensagem que gostaria de criptografa
 
 <h2> Telas </h2
 
-![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/unnamed%20(1).webp) 
-![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/unnamed%20(2).webp)
-![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/unnamed.webp)
+![](https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/imagens/unnamed%20(1).webp)
+![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/imagens/unnamed%20(2).webp)
+![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/imagens/unnamed.webp)
+
+
+<h2> IDE e Dependência </H2>
+
+Para poder abrir esse projeto é necessário tem instalado em sua máquina o Android Studio, e as dependências usadas para que o qr code funcione foi:<br>
+    implementation 'me.dm7.barcodescanner:zxing:1.9'<br>
+    implementation 'com.journeyapps:zxing-android-embedded:3.2.0@aar'<br> 
 
