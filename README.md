@@ -9,37 +9,19 @@ Assim com as placas de circuito desempenhando função chave na integração e c
 
 <img src="./img/ui.png" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
 
-## <b>Objetivo Profissional</b>
-Tenho como objetivo alcançar uma posição de junior na área de front-end. Espero criar capacitação para  meu próprio desenvolvimento e inspirar os jovens e contribuir com o crescimento da empresa.<br><br><br>
+## <b>Android-app-QrCode</b>
+QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os qr codes estão cada vez mais presente nas nossas vidas em cada canto podemos encontrar um diferente. Estar em dia com o futuro é essencial esse aplicativo pode ser muito útil..<br><br><br>
 
 
-## <b>Experiência Profissional</b>
-### **Front-end Jr.**<br>
-_Nome da Empresa Aqui_ | 2021-Atualmente<br>
-* Atividades desenvolvidas.
-* Exemplos de tarefas desenvolvidas.
+## <b>Funções</b>
+* Criar QRCode.
+* Ler QRCodes.
 
-### **Front-end trainee**<br>
-_Nome da Empresa Aqui_ / 2019-2020<br>
-* Outras atividades desenvolvidas.
-* Exemplos de outras tarefas desenvolvidas.<br><br><br>
+## <br>IDE</b>
+* Android Studio<br><br><br>
 
-
-## <b>Estudos / Cursos</b>
-### <b>Origamid</b>
-### _Front-end_ / _Web Design_
-✔ HTML / CSS / JS<br>
-✔ UI-UX Design / Adobe-XD<br>
-
-_Projeto desenvolvido:_ <b>Bikcraft</b>
-
-### <b>B7Web</b>
-### _Front-end_ / _Back-end_
-✔ JS<br>
-✔ NodeJS<br>
-✔ PHP / MySQL<br>
-
-_Projeto desenvolvido:_ <b>OLX - Dashboard</b><br><br><br>
+## <b>Linguagem</b>
+* Java<br><br><br>
 
 
 ## <b>Minhas Habilidades</b>
@@ -59,7 +41,7 @@ _Projeto desenvolvido:_ <b>OLX - Dashboard</b><br><br><br>
 ## <b>Idiomas</b>
 <b>Português:</b> Nativo<br>
 <b>Inglês:</b> Iniciante<br>
-<b>Espanhol:</b> Intermediário<br><br><br>
+
 
 
 ## <b>Entre em Contato<b>
