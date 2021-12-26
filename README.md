@@ -1,13 +1,10 @@
 
-<img src="imagens/icone_play_qr (1).png" min-width="80px" max-width="80px" width="80px" align="right" alt="badges">
+<img src="imagens/icone_play_qr (1).png" min-width="70px" max-width="70px" width="70px" align="right" alt="badges">
 
 # <b>[STS - Silva Tech Souza](https://silvatechsouza.com.br)</b>
 Olá sou a STS residente atualmente em Franco da Rocha - SP 🇧🇷 .<br>
 Assim com as placas de circuito desempenhando função chave na integração e comunicação entre as partes de um circuito.<br> Nós da STS queremos ser a ponte que leva simplicidade e inovação para quem mais precisa. Criando inovações tecnológicas, desde sites, app, sistemas e marketing digital. Nossa missão é construir um mundo onde sonhos possam se realizar, onde a complexidade de espaço para a simplicidade<br><br><br>
 
-
-
-<img src="imagens/icone_play_qr (1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
 
 ## <b>Android-app-QrCode</b>
 QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os qr codes estão cada vez mais presente nas nossas vidas em cada canto podemos encontrar um diferente. Estar em dia com o futuro é essencial esse aplicativo pode ser muito útil..<br><br><br>
@@ -23,12 +20,14 @@ QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os
 ## <b>Linguagem</b>
 * Java<br><br><br>
 
-
 ## <b>Idiomas</b>
 <b>Português</b><br>
 <b>Inglês</b><br>
 
-
+## <b>Galeria</b>
+<img src="imagens/unnamed.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
+<img src="imagens/unnamed (2).webp" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
+<img src="imagens/unnamed (1).webp" min-width="400px" max-width="400px" width="400px" align="right" alt="badges"><br><br>
 
 ## <b>Entre em Contato<b>
 <a href="www.silvatechsouza.com.br" target="_blank"><img src="https://img.shields.io/badge/SITE-www.silvatechsouza.com.br-black?style=for-the-badge"></a> &nbsp;
