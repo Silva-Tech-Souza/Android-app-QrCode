@@ -7,7 +7,7 @@ Assim com as placas de circuito desempenhando função chave na integração e c
 
 
 
-<img src="./img/ui.png" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
+<img src="imagens/icone_play_qr (1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
 
 ## <b>Android-app-QrCode</b>
 QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os qr codes estão cada vez mais presente nas nossas vidas em cada canto podemos encontrar um diferente. Estar em dia com o futuro é essencial esse aplicativo pode ser muito útil..<br><br><br>
