@@ -25,7 +25,7 @@ QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os
 <b>Inglês</b><br>
 
 ## <b>Galeria</b>
-<img src="imagens/unnamed.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
+<img src="imagens/unnamed.webp" min-width="200px" max-width="200px" width="400px" align="right" alt="badges">
 <img src="imagens/unnamed (2).webp" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
 <img src="imagens/unnamed (1).webp" min-width="400px" max-width="400px" width="400px" align="right" alt="badges"><br><br>
 
