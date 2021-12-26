@@ -1,4 +1,4 @@
-![STS](imagens/icone_play_qr (1).png)
+![STS]( https://github.com/Silva-Tech-Souza/Android-app-Calculadora-por-voz/blob/main/icone_play_qr%20(1).png)
 
 
 # <b>[STS - Silva Tech Souza](https://silvatechsouza.com.br)</b>
@@ -24,23 +24,9 @@ QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os
 * Java<br><br><br>
 
 
-## <b>Minhas Habilidades</b>
-✔ HTML :star::star::star::star::star::star::star: 7/10<br>
-
-✔ CSS :star::star::star::star::star::star: 6/10<br>
-
-✔ JS/ES6 :star::star::star::star::star: 5/10<br>
-
-✔ NodeJS :star::star::star::star: 4/10<br>
-
-✔ PHP star::star::star::star::star: 5/10<br>
-
-✔ MySQL :star::star::star::star: 4/10<br><br><br>
-
-
 ## <b>Idiomas</b>
-<b>Português:</b> Nativo<br>
-<b>Inglês:</b> Iniciante<br>
+<b>Português</b><br>
+<b>Inglês</b><br>
 
 
 
@@ -50,5 +36,3 @@ QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os
 <a href="https://www.facebook.com/silvatechsouza" target="_blank"><img src="https://img.shields.io/badge/Facebook-/silvatechsouza-%230077B5?style=for-the-badge&logo=facebook&logoColor=international"></a> &nbsp;
 <a href="mailto: comercial.sts@silvatechsouza.com.br"><img src="https://img.shields.io/badge/Email-comercial.sts@silvatechsouza.com.br-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><a href="https://silvatechsouza.com.br"><img src="https://silvatechsouza.com.br"></a> &nbsp;
