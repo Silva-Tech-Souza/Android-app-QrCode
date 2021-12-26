@@ -63,10 +63,10 @@ _Projeto desenvolvido:_ <b>OLX - Dashboard</b><br><br><br>
 
 
 ## <b>Entre em Contato<b>
-<a href="www.mysite.com" target="_blank"><img src="https://img.shields.io/badge/SITE-www.mysite.com-black?style=for-the-badge"></a> &nbsp;
-<a href="https://api.whatsapp.com/send?phone=5511911601652&text=DiretodoGit" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)90000--0000-success/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
+<a href="www.mysite.com" target="_blank"><img src="https://img.shields.io/badge/SITE-www.silvatechsouza.com-black?style=for-the-badge"></a> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=5511911601652&text=DiretodoGit" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)91160-1652-success/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
 <a href="https://www.facebook.com/silvatechsouza" target="_blank"><img src="https://img.shields.io/badge/Facebook-/softwarealles-%230077B5?style=for-the-badge&logo=facebook&logoColor=international"></a> &nbsp;
-<a href="mailto: SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-SEU_EMAIL_AQUI@gmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
-<a href="mailto: SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Linkedin-@SEU_LINKEDIN_AQUI-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
+<a href="mailto: comercial.sts@silvatechsouza.com.br"><img src="https://img.shields.io/badge/Email-comercial.sts@silvatechsouza.com.br-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
+<a href="mailto: comercial.sts@silvatechsouza.com.br"><img src="https://img.shields.io/badge/Linkedin-@SEU_LINKEDIN_AQUI-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
 
-<br><br><br><br><br><br><br><br><br><br><br><br><a href="https://fb.com/softwarealles"><img src="https://img.shields.io/badge/author-Diogo Realles-lightgrey"></a> &nbsp;
+<br><br><br><br><br><br><br><br><br><br><br><br><a href="https://silvatechsouza.com.br"><img src="https://silvatechsouza.com.br"></a> &nbsp;
