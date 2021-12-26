@@ -1,4 +1,4 @@
-![STS]( https://github.com/Silva-Tech-Souza/Android-app-Calculadora-por-voz/blob/main/icone_play_qr%20(1).png)
+![]( https://github.com/Silva-Tech-Souza/Android-app-Calculadora-por-voz/blob/main/imagens/icone_play_qr%20(1).png)
 
 
 # <b>[STS - Silva Tech Souza](https://silvatechsouza.com.br)</b>
