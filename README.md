@@ -1,4 +1,4 @@
-![STS](imagens/icone_play_qr(1).png)
+![STS](./imagens/icone_play_qr (1).png)
 
 
 # <b>[STS - Silva Tech Souza](https://silvatechsouza.com.br)</b>
