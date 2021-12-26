@@ -1,5 +1,5 @@
 
-<img src="imagens/icone_play_qr (1).png" min-width="100px" max-width="100px" width="100px" align="right" alt="badges">
+<img src="imagens/icone_play_qr (1).png" min-width="80px" max-width="80px" width="80px" align="right" alt="badges">
 
 # <b>[STS - Silva Tech Souza](https://silvatechsouza.com.br)</b>
 Olá sou a STS residente atualmente em Franco da Rocha - SP 🇧🇷 .<br>
