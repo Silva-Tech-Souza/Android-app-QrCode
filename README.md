@@ -1,27 +1,72 @@
-![]( https://github.com/Silva-Tech-Souza/Android-app-QrCode/blob/main/imagens/icone_play_qr%20(1).png) 
-# Qr Code Silva
-
-Vale lembrar que esses projetos são projetos antigos ou inacabados, são do início do aprendizado em programação caso esteja interessado em conhecer nossos novos projetos acesse o link do meu perfil. 
-
-QrCode Silva é um aplicativo de criação e escâner de qr codes, atualmente os qr codes estão cada vez mais presente nas nossas vidas em cada canto podemos encontrar um diferente. Estar em dia com o futuro é essencial esse aplicativo pode ser muito útil.
-
-Lembre se de permitir o uso da câmera e armazenamento para usar as funções do aplicativo.
-
-<h2>Características</h2>
+![Diogo Realles](./img/banner-02.png)
 
 
-Na parte de criar o qr code basta digitar a mensagem que gostaria de criptografar clicar no botão e pronto ele está criado nessa mesma tela há um outro botão para compartilhar esse mesmo qr code. Já na parte de escâner basta clicar em escancear e apontar a câmera no qr code e pronto ele vai exibir a mensagem dele, e caso seja um link ele vai perguntar se deseja abrir no navegador do dispositivo.
-
-<h2> Telas </h2
-
-![](https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/imagens/unnamed%20(1).webp)
-![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/imagens/unnamed%20(2).webp)
-![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-QrCode/main/imagens/unnamed.webp)
+# <b>[STS - Silva Tech Souza](https://silvatechsouza.com.br)</b>
+Olá sou a STS residente atualmente em Franco da Rocha - SP 🇧🇷 .<br>
+Assim com as placas de circuito desempenhando função chave na integração e comunicação entre as partes de um circuito.<br> Nós da STS queremos ser a ponte que leva simplicidade e inovação para quem mais precisa. Criando inovações tecnológicas, desde sites, app, sistemas e marketing digital. Nossa missão é construir um mundo onde sonhos possam se realizar, onde a complexidade de espaço para a simplicidade<br><br><br>
 
 
-<h2> IDE e Dependência </H2>
 
-Para poder abrir esse projeto é necessário tem instalado em sua máquina o Android Studio, e as dependências usadas para que o qr code funcione foi:<br>
-    implementation 'me.dm7.barcodescanner:zxing:1.9'<br>
-    implementation 'com.journeyapps:zxing-android-embedded:3.2.0@aar'<br> 
+<img src="./img/ui.png" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
 
+## <b>Objetivo Profissional</b>
+Tenho como objetivo alcançar uma posição de junior na área de front-end. Espero criar capacitação para  meu próprio desenvolvimento e inspirar os jovens e contribuir com o crescimento da empresa.<br><br><br>
+
+
+## <b>Experiência Profissional</b>
+### **Front-end Jr.**<br>
+_Nome da Empresa Aqui_ | 2021-Atualmente<br>
+* Atividades desenvolvidas.
+* Exemplos de tarefas desenvolvidas.
+
+### **Front-end trainee**<br>
+_Nome da Empresa Aqui_ / 2019-2020<br>
+* Outras atividades desenvolvidas.
+* Exemplos de outras tarefas desenvolvidas.<br><br><br>
+
+
+## <b>Estudos / Cursos</b>
+### <b>Origamid</b>
+### _Front-end_ / _Web Design_
+✔ HTML / CSS / JS<br>
+✔ UI-UX Design / Adobe-XD<br>
+
+_Projeto desenvolvido:_ <b>Bikcraft</b>
+
+### <b>B7Web</b>
+### _Front-end_ / _Back-end_
+✔ JS<br>
+✔ NodeJS<br>
+✔ PHP / MySQL<br>
+
+_Projeto desenvolvido:_ <b>OLX - Dashboard</b><br><br><br>
+
+
+## <b>Minhas Habilidades</b>
+✔ HTML :star::star::star::star::star::star::star: 7/10<br>
+
+✔ CSS :star::star::star::star::star::star: 6/10<br>
+
+✔ JS/ES6 :star::star::star::star::star: 5/10<br>
+
+✔ NodeJS :star::star::star::star: 4/10<br>
+
+✔ PHP star::star::star::star::star: 5/10<br>
+
+✔ MySQL :star::star::star::star: 4/10<br><br><br>
+
+
+## <b>Idiomas</b>
+<b>Português:</b> Nativo<br>
+<b>Inglês:</b> Iniciante<br>
+<b>Espanhol:</b> Intermediário<br><br><br>
+
+
+## <b>Entre em Contato<b>
+<a href="www.mysite.com" target="_blank"><img src="https://img.shields.io/badge/SITE-www.mysite.com-black?style=for-the-badge"></a> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=5511911601652&text=DiretodoGit" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)90000--0000-success/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
+<a href="https://www.facebook.com/silvatechsouza" target="_blank"><img src="https://img.shields.io/badge/Facebook-/softwarealles-%230077B5?style=for-the-badge&logo=facebook&logoColor=international"></a> &nbsp;
+<a href="mailto: SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-SEU_EMAIL_AQUI@gmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
+<a href="mailto: SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Linkedin-@SEU_LINKEDIN_AQUI-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
+
+<br><br><br><br><br><br><br><br><br><br><br><br><a href="https://fb.com/softwarealles"><img src="https://img.shields.io/badge/author-Diogo Realles-lightgrey"></a> &nbsp;
